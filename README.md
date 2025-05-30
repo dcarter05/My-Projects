@@ -23,22 +23,24 @@
 ## 💻 Tools & Technologies
 - Microsoft Office Suite (Excel, PowerPoint, Word)
 - IDEs (PyCharm, etc)
-- Using Python and Java.
+- Variety of Coding Languages
   
 ---
 
 ## 📊 Projects & Interests
-- 📈 **AGGIE BOOKSTORE (Parts 1-4) ** – This Python program manages and displays an inventory of books by genre, reading data from a CSV file and organizing book details such as title, author, publication year, quantity, and price.
-- 📈 **Player High Scores Analyzer ** — This Java program reads player data from a file, sorts it by high scores, calculates the average score, and displays a formatted leaderboard with the top performers.
+- 📈 **AGGIE BOOKSTORE (Parts 1-4, Beginner) ** – This Python program manages and displays an inventory of books by genre, reading data from a CSV file and organizing book details such as title, author, publication year, quantity, and price.
+- 📈 **Player High Scores Analyzer (Beginner) ** — This Java program reads player data from a file, sorts it by high scores, calculates the average score, and displays a formatted leaderboard with the top performers.
 - Next Project: Loading...
   
 ---
 
-## 📚 Goals
-- Land an internship in IT, data analysis, or business systems
-- Build a stronger foundation in Python and Java
-- Learn how to automate workflows for small businesses
-- Understand how tech can drive smarter decision-making
+## 📈 Career Objectives:
+- Land opportunities in IT, Data Analysis, or Business Systems where I can contribute to problem-solving, process improvement, and data-driven decision-making.
+
+## 📊 Skill Development Goals: Programming Foundations
+- Python: Focus on data manipulation and automation.
+- Java: Build object-oriented applications and understand backend systems.
+- C++: Learn memory management, data structures, and system-level programming.
 
 ---
 
