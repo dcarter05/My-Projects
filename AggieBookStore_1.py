@@ -1,6 +1,5 @@
 """
 Dorian Carter Jr
-9 - 15 - 24
 
 This program is created for a bookstore to track the amount of books in certain genres that are in their stock.
 """
