@@ -22,9 +22,8 @@
 
 ## 💻 Tools & Technologies
 - Microsoft Office Suite (Excel, PowerPoint, Word)
-- Python
-- Java (Beginner)
-- Currently exploring: Loading...
+- IDEs (PyCharm, etc)
+- Using Python and Java.
   
 ---
 
