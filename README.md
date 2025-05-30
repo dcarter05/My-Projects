@@ -6,6 +6,12 @@
 
 ---
 
+## 🧭 Navigation
+- Click the "Main" dropdown option for the branches.
+- Explore!
+
+---
+
 ## 🌱 What I'm Learning
 - Business Systems & Information Management
 - Microsoft Excel & Access for Business Applications
