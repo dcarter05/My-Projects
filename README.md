@@ -8,6 +8,7 @@
 
 ## 🧭 Navigation
 - Click the "Main" dropdown option for the branches.
+- Each Branch contains a different project + parts, if necessary!
 - Explore!
 
 ---
