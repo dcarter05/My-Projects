@@ -24,6 +24,7 @@
 
 ## 📊 Projects & Interests
 - 📈 **AGGIE BOOKSTORE (Parts 1-4) ** – This program is created for a bookstore to track all logistics within the store.
+- 📈 **Player High Scores Analyzer ** — This Java program reads player data from a file, sorts it by high scores, calculates the average score, and displays a formatted leaderboard with the top performers.
 - Next Project: Loading...
   
 ---
