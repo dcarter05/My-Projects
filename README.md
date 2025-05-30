@@ -31,6 +31,7 @@
 ## 📊 Projects & Interests
 - 📈 **AGGIE BOOKSTORE (Parts 1-4, Beginner) ** – This Python program manages and displays an inventory of books by genre, reading data from a CSV file and organizing book details such as title, author, publication year, quantity, and price.
 - 📈 **Player High Scores Analyzer (Beginner) ** — This Java program reads player data from a file, sorts it by high scores, calculates the average score, and displays a formatted leaderboard with the top performers.
+- 📈 **Budget Tracker (Intermediate) ** — A Java application that helps users manage their finances by tracking income, expenses, and budget categories. It reads data from a file and generates a clear financial summary.
 - Next Project: Loading...
   
 ---
