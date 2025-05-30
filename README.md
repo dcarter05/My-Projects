@@ -1,6 +1,7 @@
 # 👋 Yo, I'm Dorian!
 
 ** I'm a Sophomore at North Carolina A&T State University studying Business Information Technology.
+
 ** Carrying a growing passion for bridging the gap between business strategy and modern tech solutions.
 
 ---
