@@ -22,7 +22,7 @@
 
 ## 💻 Tools & Technologies
 - Microsoft Office Suite (Excel, PowerPoint, Word)
-- IDEs (PyCharm, etc)
+- IDEs (PyCharm, IntelliJ, etc)
 - Variety of Coding Languages
   
 ---
