@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Dorian!
+# 👋 Hello, I'm Dorian!
 
 ** I'm a Sophomore at North Carolina A&T State University studying Business Information Technology.
 
