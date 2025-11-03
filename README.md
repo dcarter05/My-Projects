@@ -17,26 +17,27 @@
 - Business Systems & Information Management
 - Microsoft Excel & Access for Business Applications
 - IT Automation with Python
-- Intro to Data Analytics
+- Advanced Data Analytics
 
 ---
 
-## 📃 Certifications
+## 📄 Certifications
 - Google Data Analytics
 - Google Business Intelligence
 - Dell GenerativeAI Foundations
 - Microsoft Python Programming
+- 📈 In Progress: Google AI Automation with Python, Google Cybersecurity...
 
 ---
 
-## 💻 Tools & Technologies
+## 💻 Tools & Technologies Featured
 - Microsoft Office Suite (Excel, PowerPoint, Word)
 - IDEs (PyCharm, IntelliJ, etc)
-- Variety of Coding Languages
+- Coding Languages: Python, Java 
   
 ---
 
-## 📊 Projects & Interests
+## 📊 Projects Featured
 - 📈 **AGGIE BOOKSTORE (Parts 1-4, Beginner) ** – This Python program manages and displays an inventory of books by genre, reading data from a CSV file and organizing book details such as title, author, publication year, quantity, and price.
 - 📈 **Player High Scores Analyzer (Beginner) ** — This Java program reads player data from a file, sorts it by high scores, calculates the average score, and displays a formatted leaderboard with the top performers.
 - 📈 **Budget Tracker (Intermediate) ** — A Java application that helps users manage their finances by tracking income, expenses, and budget categories. It reads data from a file and generates a clear financial summary.
@@ -44,12 +45,11 @@
   
 ---
 
-## 📈 Career Objectives:
+## 📈 Career Objectives/Development Goals:
 - Land opportunities in IT, Data Analysis, or Business Systems where I can contribute to problem-solving, process improvement, and data-driven decision-making.
+- Python: Focus on data manipulation and AI automation.
+- Java: Build object-oriented applications and better understand backend systems.
 
-## 📊 Skill Development Goals: Programming Foundations
-- Python: Focus on data manipulation and automation.
-- Java: Build object-oriented applications and understand backend systems.
 ---
 
 ## 📫 Let's Connect!
