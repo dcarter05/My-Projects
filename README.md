@@ -42,8 +42,6 @@
 ## 📊 Skill Development Goals: Programming Foundations
 - Python: Focus on data manipulation and automation.
 - Java: Build object-oriented applications and understand backend systems.
-- C++: Learn memory management, data structures, and system-level programming.
-
 ---
 
 ## 📫 Let's Connect!
