@@ -14,8 +14,8 @@
 ---
 
 ## 🌱 What I'm Learning
-- Business Systems & Information Management
-- Microsoft Excel & Access for Business Applications
+- Business Systems & Supply Chain Management
+- SQL for Data Analysis
 - IT Automation with Python
 - Advanced Data Analytics
 
