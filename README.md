@@ -26,6 +26,8 @@
 - Google Business Intelligence
 - Dell GenerativeAI Foundations
 - Microsoft Python Programming
+- LinkedIn Actionable Insights and Business Data
+- LinkedIn Data Visualization for Data Analytics
 - 📈 In Progress: Google AI Automation with Python, Google Cybersecurity...
 
 ---
