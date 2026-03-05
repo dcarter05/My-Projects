@@ -56,4 +56,4 @@
 
 ## 📫 Let's Connect!
 - LinkedIn: www.linkedin.com/in/dorian-l-carter-jr-
-- Email: dlcjr05@gmail.com
+- Email: carterldorian@gmail.com
