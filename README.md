@@ -14,7 +14,7 @@
 ---
 
 ## 🌱 What I'm Learning
-- Business Systems & Supply Chain Management
+- Business Systems & Stakeholder Management
 - SQL for Data Analysis
 - IT Automation with Python
 - Advanced Data Analytics
